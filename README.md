@@ -1,2 +1,4 @@
 # z-lens
-Lens Protocol Analysis
+Lens Protocol Analysis Assessment
+
+Results in `assignment.ipynb`
